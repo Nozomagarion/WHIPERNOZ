@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Whipernoz</string>
+    <string name="accessibility_service_description">Whipernoz détecte les zones de texte pour afficher le bouton de dictée vocale. Aucune donnée n\'est collectée.</string>
+</resources>

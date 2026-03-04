@@ -1,0 +1,10 @@
+[package]
+name = "whipernoz-audio"
+version = "0.1.0"
+edition = "2021"
+description = "Audio capture, VAD, and resampling for Whisper input"
+
+[dependencies]
+anyhow = { workspace = true }
+thiserror = { workspace = true }
+tracing = { workspace = true }

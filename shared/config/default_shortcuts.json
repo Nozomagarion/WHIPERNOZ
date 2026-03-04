@@ -1,0 +1,12 @@
+{
+  "shortcuts": [
+    {
+      "trigger": "insert signature",
+      "expansion": "Best regards,\n[Your Name]"
+    },
+    {
+      "trigger": "insérer signature",
+      "expansion": "Cordialement,\n[Votre Nom]"
+    }
+  ]
+}
