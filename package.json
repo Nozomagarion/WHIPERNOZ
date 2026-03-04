@@ -1,0 +1,11 @@
+{
+  "name": "whipernoz",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI-powered voice-to-text dictation app (Wispr Flow alternative)",
+  "scripts": {
+    "dev": "cd desktop && pnpm dev",
+    "build": "cd desktop && pnpm build",
+    "tauri": "cd desktop && pnpm tauri"
+  }
+}
