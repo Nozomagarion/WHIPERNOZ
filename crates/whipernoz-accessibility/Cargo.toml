@@ -1,0 +1,10 @@
+[package]
+name = "whipernoz-accessibility"
+version = "0.1.0"
+edition = "2021"
+description = "System-wide text field detection and text injection (Windows/macOS)"
+
+[dependencies]
+anyhow = { workspace = true }
+thiserror = { workspace = true }
+tracing = { workspace = true }

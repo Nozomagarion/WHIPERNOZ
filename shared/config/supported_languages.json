@@ -1,0 +1,17 @@
+{
+  "languages": [
+    { "code": "en", "name": "English", "whisper_code": "en" },
+    { "code": "fr", "name": "Français", "whisper_code": "fr" },
+    { "code": "es", "name": "Español", "whisper_code": "es" },
+    { "code": "de", "name": "Deutsch", "whisper_code": "de" },
+    { "code": "it", "name": "Italiano", "whisper_code": "it" },
+    { "code": "pt", "name": "Português", "whisper_code": "pt" },
+    { "code": "ja", "name": "日本語", "whisper_code": "ja" },
+    { "code": "zh", "name": "中文", "whisper_code": "zh" },
+    { "code": "ko", "name": "한국어", "whisper_code": "ko" },
+    { "code": "ar", "name": "العربية", "whisper_code": "ar" },
+    { "code": "hi", "name": "हिन्दी", "whisper_code": "hi" },
+    { "code": "ru", "name": "Русский", "whisper_code": "ru" },
+    { "code": "auto", "name": "Auto-detect", "whisper_code": null }
+  ]
+}
